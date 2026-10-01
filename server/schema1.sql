@@ -1,0 +1,1 @@
+-- MongoDB collections and indexes are defined by Mongoose in server/index.js.
