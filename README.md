@@ -1,2 +1,2 @@
-# NITJ
-Responsive web portal &amp; administrative CMS for the MeitY-sponsored SwaYaan Drone Project at NIT Jalandhar. Built with React 19, Vite, Express 5, and MongoDB with secure JWT auth and event management.
+NITJ SwaYaan Drone Project is a responsive web application and event management portal developed for the Ministry of Electronics and Information Technology (MeitY) sponsored drone capacity-building initiative at Dr B R Ambedkar National Institute of Technology Jalandhar. 
+It provides public access to 20+ national drone bootcamp archives, dynamic upcoming event schedules, and a secure MongoDB-backed admin dashboard with JWT authentication for publishing real-time updates and media.
